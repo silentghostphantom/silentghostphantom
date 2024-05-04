@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 [![GitHub Silentghostphantom](https://img.shields.io/github/followers/silentghostphantom?label=follow&style=social)](https://github.com/silentghostphantom)
 
 
-### <img src="https://giphy.com/embed/JLYQnbND9gkYU" width="50"> Algo más acerca de mí...  
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamcwa3NsYWY1NHBnbXRrOXUzNTgwZjg5OGFocHNkdjN4YTB0dWVpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif" width="50"> Algo más acerca de mí...  
 
 ```javascript
 const DarkDestiny = {
-  pronouns: "he",
-  code: [Java, Spring, Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  pronouns: "DarkDestiny",
+  code: [Java, Spring, Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Vue, React, A Node,  Docker],
+  architecture: ["microservices", "layers", "design system pattern"],
   techCommunities: {
                         coorganizer: "Darkdestiny",
                         speaker: "Darkdestiny",
