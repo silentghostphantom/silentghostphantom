@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **silentghostphantom/silentghostphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!--
 
 <h2> Hola, soy DarkDestiny! <img src="https://avatars.githubusercontent.com/u/47790670?v=4" width="50"></h2>
 <img align='right' src="[https://avatars.githubusercontent.com/u/47790670?v=4](https://avatars.githubusercontent.com/u/47790670?v=4)" width="230">
@@ -44,3 +44,5 @@ const DarkDestiny = {
 ---
 
 ⭐️ From [@silentghostphantom](https://github.com/silentghostphantom)
+
+-->
