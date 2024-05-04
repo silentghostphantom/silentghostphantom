@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hola, soy DarkDestiny! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Lic. en Informática Administrativa <a href="https://cutexcoco.uaemex.mx/">UAEMex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>M. en C. de la Computación<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: asuncionez](https://img.shields.io/twitter/follow/asuncionez?style=social)](https://twitter.com/asuncionez)
+[![GitHub Silentghostphantom](https://img.shields.io/github/followers/silentghostphantom?label=follow&style=social)](https://github.com/silentghostphantom)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algo más acerca de mí...  
+
+```javascript
+const thai = {
+  pronouns: "he",
+  code: [Java, Spring, Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Darkdestiny",
+                        speaker: "Darkdestiny",
+                        mentor: "Darkdestiny"
+                      },
+ challenge: "Ser feliz, un día a la vez"
+}
+```
+
+---
+
+⭐️ From [@silentghostphantom](https://github.com/silentghostphantom)
