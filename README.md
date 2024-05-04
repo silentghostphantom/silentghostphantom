@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![GitHub Silentghostphantom](https://img.shields.io/github/followers/silentghostphantom?label=follow&style=social)](https://github.com/silentghostphantom)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algo más acerca de mí...  
+### <img src="https://giphy.com/embed/JLYQnbND9gkYU" width="50"> Algo más acerca de mí...  
 
 ```javascript
 const DarkDestiny = {
