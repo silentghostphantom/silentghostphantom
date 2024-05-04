@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**silentghostphantom/silentghostphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Twitter Follow](https://img.shields.io/twitter/follow/asuncionez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/silentghostphantom&screen_name=asuncionez)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
